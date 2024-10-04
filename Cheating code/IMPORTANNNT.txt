@@ -1,1 +1,2 @@
-Change the save location for screenshot files before running
+Change the save location for screenshot files before running   
+the code take screenshot after 3 sec
